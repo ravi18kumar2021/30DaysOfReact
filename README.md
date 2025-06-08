@@ -1,4 +1,4 @@
-
+# Welcome to 30DaysOfReact
 Each day's folder includes:
 
 - `README.md` — Overview, goal and concepts for the day  
