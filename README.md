@@ -49,7 +49,7 @@ Each day's folder includes:
 To run the projects locally:
 
 ```bash
-git clone https://github.com/your-username/30-days-of-react.git
-cd 30-days-of-react
+git clone https://github.com/ravi18kumar2021/30DaysOfReact
+cd 30DaysOfReact
 npm install
 npm run dev
