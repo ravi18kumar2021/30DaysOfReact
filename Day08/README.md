@@ -40,6 +40,6 @@ A simple **Document Title Changer** app using the `useEffect` hook. This project
 
 ```bash
 git clone https://github.com/ravi18kumar2021/30DaysOfReact.git
-cd 30DaysOfReact/Day8
+cd 30DaysOfReact/Day08
 npm install
 npm run dev

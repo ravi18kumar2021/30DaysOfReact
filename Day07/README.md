@@ -51,6 +51,6 @@ The form includes fields for Name, Email, Age, Gender, and Terms Agreement, and 
 
 ```bash
 git clone https://github.com/ravi18kumar2021/30DaysOfReact.git
-cd 30DaysOfReact/Day7
+cd 30DaysOfReact/Day07
 npm install
 npm run dev

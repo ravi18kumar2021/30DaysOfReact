@@ -33,6 +33,6 @@ A simple **React form** with two fields: **Name** and **Email**. The form uses *
 
 ```bash
 git clone https://github.com/ravi18kumar2021/30DaysOfReact.git
-cd 30DaysOfReact/Day6
+cd 30DaysOfReact/Day06
 npm install
 npm run dev

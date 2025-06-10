@@ -31,6 +31,6 @@ A simple but powerful **Counter App** using React’s `useState` hook. This proj
 
 ```bash
 git clone https://github.com/ravi18kumar2021/30DaysOfReact.git
-cd 30DaysOfReact/Day3
+cd 30DaysOfReact/Day03
 npm install
 npm run dev

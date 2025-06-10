@@ -57,7 +57,7 @@ function QuoteFetcher() {
 
     useEffect(() => {
         getData();
-    }, [category]);
+    }, []);
 
     return (
         <div>

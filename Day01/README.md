@@ -14,6 +14,6 @@ A simple React component that displays a static user profile card using basic JS
 ## 📂 Setup
 ```bash
 git clone https://github.com/ravi18kumar2021/30DaysOfReact.git
-cd 30DaysOfReact/Day1
+cd 30DaysOfReact/Day01
 npm install
 npm run dev

@@ -43,6 +43,6 @@ A simple **Joke Generator** app that fetches a random joke from an external API 
 
 ```bash
 git clone https://github.com/ravi18kumar2021/30DaysOfReact.git
-cd 30DaysOfReact/Day9
+cd 30DaysOfReact/Day09
 npm install
 npm run dev

@@ -31,6 +31,6 @@ A simple **Character Counter** app in React that counts the number of characters
 
 ```bash
 git clone https://github.com/ravi18kumar2021/30DaysOfReact.git
-cd 30DaysOfReact/Day5
+cd 30DaysOfReact/Day05
 npm install
 npm run dev

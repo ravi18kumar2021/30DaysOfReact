@@ -33,6 +33,6 @@ This project builds on simple static card and introduces **component reusability
 
 ```bash
 git clone https://github.com/ravi18kumar2021/30DaysOfReact.git
-cd 30DaysOfReact/Day2
+cd 30DaysOfReact/Day02
 npm install
 npm run dev

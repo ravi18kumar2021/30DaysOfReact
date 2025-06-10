@@ -32,6 +32,6 @@ A simple **Toggle Details** component that shows or hides a paragraph of text wh
 
 ```bash
 git clone https://github.com/ravi18kumar2021/30DaysOfReact.git
-cd 30DaysOfReact/Day4
+cd 30DaysOfReact/Day04
 npm install
 npm run dev
