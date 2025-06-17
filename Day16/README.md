@@ -35,7 +35,7 @@ A **Blog Viewer Application** demonstrating **nested routes** and how to extract
 
 ---
 
-## 📸 Screenshot
+## 📸 Screenshots
 
 ![Screenshot](./screenshot1.png)
 

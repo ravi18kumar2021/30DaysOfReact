@@ -35,6 +35,7 @@ A **Simple To-Do List** built using React to practice rendering lists with `.map
 ## 📸 Screenshots
 
 ![Screenshot](./screenshot1.png)
+
 ![Screenshot](./screenshot2.png)
 
 ---
