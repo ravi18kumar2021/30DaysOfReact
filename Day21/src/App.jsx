@@ -68,7 +68,8 @@ function App() {
 							<ErrorMessage name='password2' component="p" className='text-red-500' />
 						</div>
 						<div>
-							<button type="submit">Sign Up</button>
+							<button type="submit" className='mx-3 text-green-400'>Sign Up</button>
+							<button type="reset" className='mx-3 text-red-600'>Clear</button>
 						</div>
 					</Form>
 				</Formik>
