@@ -55,6 +55,8 @@ A fully functional **React Blog App** with:
 
 ![Screenshot](./screenshot3.png)
 
+---
+
 ## 📦 How to Run Locally
 
 ```bash
