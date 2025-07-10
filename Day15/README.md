@@ -1,4 +1,4 @@
-# Day13: Project - Multi-page App (Props Drilling)
+# Day13: Project - Multi-page App
 
 ## 🚀 What I Built
 
