@@ -35,7 +35,7 @@ A **Theme Switcher** application with **persistent theme preference** using a **
 
 ![Screenshot](./screenshot1.png)
 
-![Screenshot](./screenshot1.png)
+![Screenshot](./screenshot2.png)
 
 ---
 
